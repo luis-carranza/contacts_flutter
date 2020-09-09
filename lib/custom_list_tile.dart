@@ -16,7 +16,7 @@ class CustomListTile extends StatelessWidget {
       leading: Icon(Icons.face),
       title: Text(title),
       subtitle: Text(subTitle),
-      trailing: Icon(Icons.arrow_forward),
+      trailing: Icon(Icons.keyboard_arrow_right),
       onTap: () {},
     );
   }
