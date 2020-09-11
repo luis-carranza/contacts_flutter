@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "154529683905",
+    "firebase_url": "https://contacts-flutter-app.firebaseio.com",
+    "project_id": "contacts-flutter-app",
+    "storage_bucket": "contacts-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154529683905:android:7f0e970d149faff1183740",
+        "android_client_info": {
+          "package_name": "com.example.contacts_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154529683905-ttsrsku45mefa1ahev7p292uecl7tf81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ2lHoGFhvAM9Ofk9CyWvOvU1zR1kBxvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154529683905-ttsrsku45mefa1ahev7p292uecl7tf81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
